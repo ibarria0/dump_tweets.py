@@ -5,8 +5,8 @@ Dumps latest tweets from user
 
 Requirements
 ---------------
-python3
-[twitter](https://github.com/sixohsix/twitter)
+* python3
+* [twitter](https://github.com/sixohsix/twitter)
 
 
 Usage
